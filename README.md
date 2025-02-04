@@ -1,1 +1,1 @@
-# DesignPatterns_TemplateMethod
+道館三 樣板方法
